@@ -1,2 +1,9 @@
-# sistemapadrao
-Este repositório tem como objetivo versionar a base padrão do Geopixel cidades bem como receber feedbacks e contribuições
+# sistemapadrao-geopixel
+
+Visão geral do projeto GeoPixel System Padrão
+
+## Estrutura do Projeto
+- `base/`: Código-fonte da base padrão
+- `changelog/`: Histórico detalhado por versão
+- `.github/`: Configurações do GitHub
+- `docs/`: Documentação da base padrão
